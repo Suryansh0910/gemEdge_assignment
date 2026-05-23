@@ -1,0 +1,7 @@
+Detail Worker 05 — 204 bids to fetch
+  DW05 | 50/204 (25%) | 377 vendor rows | 9 no-data
+  DW05 | 100/204 (49%) | 760 vendor rows | 12 no-data
+  DW05 | 150/204 (74%) | 1025 vendor rows | 23 no-data
+  DW05 | 200/204 (98%) | 1421 vendor rows | 31 no-data
+  DW05 | 204/204 (100%) | 1427 vendor rows | 33 no-data
+Detail Worker 05 DONE — 1427 vendor rows → vendors_05.csv

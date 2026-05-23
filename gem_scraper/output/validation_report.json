@@ -1,0 +1,36 @@
+{
+  "bids": {
+    "label": "bids_clean",
+    "rows": 4075,
+    "errors": [],
+    "warnings": [],
+    "null_rates": {
+      "id": "0.0%",
+      "bid_number": "0.0%",
+      "category": "0.0%",
+      "quantity": "0.0%",
+      "start_date": "0.0%",
+      "end_date": "0.0%",
+      "ministry": "0.0%",
+      "department": "0.0%",
+      "winner_price": "0.0%",
+      "l2_price": "0.0%",
+      "num_bidders": "0.0%",
+      "ra_or_bid": "0.0%"
+    },
+    "status": "PASS"
+  },
+  "vendors": {
+    "label": "vendors_clean",
+    "rows": 28901,
+    "errors": [],
+    "warnings": [],
+    "null_rates": {
+      "bid_id": "0.0%",
+      "vendor_name": "0.0%",
+      "vendor_rank": "82.9%",
+      "vendor_price": "0.0%"
+    },
+    "status": "PASS"
+  }
+}

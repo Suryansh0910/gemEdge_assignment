@@ -1,0 +1,878 @@
+{
+  "status": 1,
+  "code": 200,
+  "message": "Bid result",
+  "response": {
+    "response": {
+      "numFound": 3133675,
+      "start": 0,
+      "numFoundExact": true,
+      "docs": [
+        {
+          "id": "9353678",
+          "b_id": [
+            9353678
+          ],
+          "b_bid_number": [
+            "GEM/2026/R/670103"
+          ],
+          "b_category_name": [
+            "Cyber Security Audit - Security and Compliance Audit"
+          ],
+          "b_total_quantity": [
+            1
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            2
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            1
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-21T11:00:00Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T13:08:01Z"
+          ],
+          "bd_category_name": [
+            "Cyber Security Audit - Security and Compliance Audit"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "b_bid_number_parent": [
+            "GEM/2026/B/7484220"
+          ],
+          "b_id_parent": [
+            9267427
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "ra_b_status": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "ra_b_buyer_status": [
+            2
+          ],
+          "b_cat_id": [
+            "services_home_cybe_cybe"
+          ],
+          "b.b_created_by": [
+            "psigr"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_deptName": [
+            "Revenue and Relief Department Jammu and Kashmir"
+          ]
+        },
+        {
+          "id": "9354429",
+          "b_id": [
+            9354429
+          ],
+          "b_bid_number": [
+            "GEM/2026/R/670173"
+          ],
+          "b_category_name": [
+            "Scanner (V3)"
+          ],
+          "b_total_quantity": [
+            1
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            2
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-21T12:00:00Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T12:12:44Z"
+          ],
+          "bd_category_name": [
+            "Scanner (V3)"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "b_bid_number_parent": [
+            "GEM/2026/B/7419591"
+          ],
+          "b_id_parent": [
+            9195499
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "ra_b_status": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "ra_b_buyer_status": [
+            2
+          ],
+          "b_cat_id": [
+            "home_info_comp_co14146508_sc51875061"
+          ],
+          "b.b_created_by": [
+            "mukesh.chaturvedi"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Health and Family Welfare"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Health and Family Welfare"
+          ]
+        },
+        {
+          "id": "9317193",
+          "b_id": [
+            9317193
+          ],
+          "b_bid_number": [
+            "GEM/2026/B/7528899"
+          ],
+          "b_category_name": [
+            "Cap Stand 40 x 28 inch,Sofa with Table,Cane stand,Box Wall Hanging,Dinning Chair"
+          ],
+          "b_total_quantity": [
+            8
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            1
+          ],
+          "b_is_bunch": [
+            5
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-12T11:57:40Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T12:00:00Z"
+          ],
+          "bd_category_name": [
+            "Cap Stand 40 x 28 inch,Sofa with Table,Cane stand,Box Wall Hanging,Dinning Chair"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "bbt_title": [
+            "CAP STAND"
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "b_cat_id": [
+            "home_boq_boql_boql_boq"
+          ],
+          "b.b_created_by": [
+            "11idsrpo"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ],
+          "bd_details_is_boq": [
+            true
+          ],
+          "bd_details_new_boq": [
+            true
+          ]
+        },
+        {
+          "id": "9348408",
+          "b_id": [
+            9348408
+          ],
+          "b_bid_number": [
+            "GEM/2026/B/7557136"
+          ],
+          "b_category_name": [
+            "Plain Copier Paper (V3) ISI Marked to IS 14490"
+          ],
+          "b_total_quantity": [
+            300
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            1
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-19T11:10:15Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T12:00:00Z"
+          ],
+          "bd_category_name": [
+            "Plain Copier Paper (V3) ISI Marked to IS 14490"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "b_cat_id": [
+            "home_pape_pape_prin_plai"
+          ],
+          "b.b_created_by": [
+            "stnhq104"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ]
+        },
+        {
+          "id": "9312081",
+          "b_id": [
+            9312081
+          ],
+          "b_bid_number": [
+            "GEM/2026/B/7524364"
+          ],
+          "b_category_name": [
+            "DATA INPUT DEVICE FOR TRG PURPOSE"
+          ],
+          "b_total_quantity": [
+            1
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            1
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-11T11:55:58Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T12:00:00Z"
+          ],
+          "bd_category_name": [
+            "DATA INPUT DEVICE FOR TRG PURPOSE"
+          ],
+          "b_is_custom_item": [
+            1
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "b_cat_id": [
+            "home_univ_univ_univ_univ"
+          ],
+          "b.b_created_by": [
+            "buyer@193fwc"
+          ],
+          "ba_is_single_packet": [
+            1
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ]
+        },
+        {
+          "id": "9316553",
+          "b_id": [
+            9316553
+          ],
+          "b_bid_number": [
+            "GEM/2026/B/7528309"
+          ],
+          "b_category_name": [
+            "oil seal assy,relay starter solenoid,main bearing set,pole screw,rep kit hyd brake wheel cyl,filter"
+          ],
+          "b_total_quantity": [
+            37
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            1
+          ],
+          "b_is_bunch": [
+            12
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-12T10:46:36Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T11:00:00Z"
+          ],
+          "bd_category_name": [
+            "oil seal assy,relay starter solenoid,main bearing set,pole screw,rep kit hyd brake wheel cyl,filter fuel 2 pipe,kit pad assy front,hp hose,field coil assy,pully mc,assy housing intermediate flange,gasket cylinder head"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "bbt_title": [
+            "oil seal assy"
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "b_cat_id": [
+            "home_boq_boql_boql_boq"
+          ],
+          "b.b_created_by": [
+            "buyer_318"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ],
+          "bd_details_is_boq": [
+            true
+          ],
+          "bd_details_new_boq": [
+            true
+          ]
+        },
+        {
+          "id": "9316475",
+          "b_id": [
+            9316475
+          ],
+          "b_bid_number": [
+            "GEM/2026/B/7528236"
+          ],
+          "b_category_name": [
+            "clutch plate,pressure plate,clutch release bearing,wiper blade,gear knop,gear oil tin,brush carrier"
+          ],
+          "b_total_quantity": [
+            15
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            1
+          ],
+          "b_is_bunch": [
+            12
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-12T10:36:32Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T11:00:00Z"
+          ],
+          "bd_category_name": [
+            "clutch plate,pressure plate,clutch release bearing,wiper blade,gear knop,gear oil tin,brush carrier assy,regulator brush box assy,clutch shaft,parts kit protective valve,high pressure hose,armature assy"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "bbt_title": [
+            "clutch plate"
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "b_cat_id": [
+            "home_boq_boql_boql_boq"
+          ],
+          "b.b_created_by": [
+            "buyer_318"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ],
+          "bd_details_is_boq": [
+            true
+          ],
+          "bd_details_new_boq": [
+            true
+          ]
+        },
+        {
+          "id": "9353401",
+          "b_id": [
+            9353401
+          ],
+          "b_bid_number": [
+            "GEM/2026/R/670074"
+          ],
+          "b_category_name": [
+            "Gwarty"
+          ],
+          "b_total_quantity": [
+            16200
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            2
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-21T11:00:00Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T11:00:00Z"
+          ],
+          "bd_category_name": [
+            "Gwarty"
+          ],
+          "b_is_custom_item": [
+            1
+          ],
+          "b_bid_number_parent": [
+            "GEM/2026/B/7477632"
+          ],
+          "b_id_parent": [
+            9259918
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "ra_b_status": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "ra_b_buyer_status": [
+            2
+          ],
+          "b_cat_id": [
+            "home_univ_univ_univ_univ"
+          ],
+          "b.b_created_by": [
+            "qm072bnbsf"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Home Affairs"
+          ],
+          "ba_official_details_deptName": [
+            "Central Armed Police Forces"
+          ]
+        },
+        {
+          "id": "9353342",
+          "b_id": [
+            9353342
+          ],
+          "b_bid_number": [
+            "GEM/2026/R/670066"
+          ],
+          "b_category_name": [
+            "MEAT DRESSED FROZEN"
+          ],
+          "b_total_quantity": [
+            845
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            2
+          ],
+          "b_is_bunch": [
+            1
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-21T11:00:00Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T11:00:00Z"
+          ],
+          "bd_category_name": [
+            "MEAT DRESSED FROZEN"
+          ],
+          "b_is_custom_item": [
+            1
+          ],
+          "b_bid_number_parent": [
+            "GEM/2026/B/7520453"
+          ],
+          "b_id_parent": [
+            9307568
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "ra_b_status": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "ra_b_buyer_status": [
+            2
+          ],
+          "b_cat_id": [
+            "home_univ_univ_univ_univ"
+          ],
+          "b.b_created_by": [
+            "ghosh.krishna91"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ]
+        },
+        {
+          "id": "9342849",
+          "b_id": [
+            9342849
+          ],
+          "b_bid_number": [
+            "GEM/2026/R/668960"
+          ],
+          "b_category_name": [
+            "Flannelette rolls of cm width (Defence),Antimicrobial Hand Wash (V2),Stainless Steel Utensil as per"
+          ],
+          "b_total_quantity": [
+            64483
+          ],
+          "b_status": [
+            2
+          ],
+          "b_bid_type": [
+            2
+          ],
+          "b_is_bunch": [
+            10
+          ],
+          "b_type": [
+            0
+          ],
+          "b_bid_to_ra": [
+            2
+          ],
+          "b_buyer_status": [
+            3
+          ],
+          "b_eval_type": [
+            0
+          ],
+          "final_start_date_sort": [
+            "2026-05-19T11:00:00Z"
+          ],
+          "final_end_date_sort": [
+            "2026-05-22T11:00:00Z"
+          ],
+          "bd_category_name": [
+            "Flannelette rolls of cm width (Defence),Antimicrobial Hand Wash (V2),Stainless Steel Utensil as per IS 14756,Stainless Steel Utensil as per IS 14756,Shovel Belcha as per IS 274 (Part 1, Part 2 and Part 3),Shovel Belcha as per IS 274 (Part 1, Part 2 and Part 3),Vegetable Cutter,Domestic Kitchen Spatulas (V2),Domestic Kitchen Spatulas (V2),Stainless Steel Utensil as per IS 14756"
+          ],
+          "b_is_custom_item": [
+            0
+          ],
+          "b_bid_number_parent": [
+            "GEM/2026/B/7481896"
+          ],
+          "b_id_parent": [
+            9264853
+          ],
+          "is_high_value": [
+            false
+          ],
+          "b_ra_to_bid": [
+            1
+          ],
+          "ra_b_status": [
+            1
+          ],
+          "b_is_inactive": [
+            0
+          ],
+          "ra_b_buyer_status": [
+            2
+          ],
+          "b_cat_id": [
+            "home_mine_fabr_spec_flan,home_appa_pers_bath_anti,home_dome_dome_do41312305_stai,home_tool_hand_ag33775346_shov,home_dome_dome_do41312305_vege,home_serv_inst_tabl_dome"
+          ],
+          "b.b_created_by": [
+            "sailab.456ab@gov.in"
+          ],
+          "ba_is_single_packet": [
+            0
+          ],
+          "ba_is_global_tendering": [
+            0
+          ],
+          "is_rc_bid": [
+            0
+          ],
+          "ba_official_details_minName": [
+            "Ministry of Defence"
+          ],
+          "ba_official_details_deptName": [
+            "Department of Military Affairs"
+          ]
+        }
+      ]
+    }
+  }
+}

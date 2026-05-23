@@ -1,0 +1,6 @@
+Detail Worker 20 — 199 bids to fetch
+  DW20 | 50/199 (25%) | 1191 vendor rows | 11 no-data
+  DW20 | 100/199 (50%) | 1340 vendor rows | 23 no-data
+  DW20 | 150/199 (75%) | 1524 vendor rows | 27 no-data
+  DW20 | 199/199 (100%) | 1985 vendor rows | 33 no-data
+Detail Worker 20 DONE — 1985 vendor rows → vendors_20.csv

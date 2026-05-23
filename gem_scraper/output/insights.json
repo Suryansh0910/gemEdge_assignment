@@ -1,0 +1,563 @@
+{
+  "pct_bids_gt3_bidders": 38.5,
+  "avg_l1_l2_gap_pct": 4.22,
+  "median_l1_l2_gap_pct": 0.9,
+  "top_10_repeat_winners": {
+    "SWASTIK ENTERPRISES": 9,
+    "DEEPAK TRADING CO": 8,
+    "UNIVERSAL PRODUCTS(INDIA": 7,
+    "M/S P.C ENTERPRISES": 7,
+    "SHREE SHYAM ENTERPRISES": 6,
+    "EVERGREEN DOOARS TEA": 6,
+    "NUTORAS FOODS": 5,
+    "GURU KARTAR PACKAGINGS": 4,
+    "GEE KAY TRADERS": 4,
+    "CHIRAG ENTERPRISE": 4
+  },
+  "repeat_winners_deep": [
+    {
+      "winner": "SWASTIK ENTERPRISES",
+      "total_wins": 9,
+      "top_categories": {
+        "Short Term Cab & Taxi Hiring Services - Sedan; Local; 80Kms x 10Hrs": 3,
+        "Short Term Cab & Taxi Hiring Services - SUV; Local; 80Kms x 10Hrs": 2,
+        "Short Term Cab & Taxi Hiring Services - Sedan; Outstation; 250Kms x 8Hrs": 2
+      },
+      "top_ministries": {
+        "Ministry of Defence": 9
+      },
+      "avg_winner_price": 47243.33,
+      "avg_l1_l2_adv_pct": 0.52,
+      "single_bidder_wins": 0
+    },
+    {
+      "winner": "DEEPAK TRADING CO",
+      "total_wins": 8,
+      "top_categories": {
+        "Refined Sunflower Oil (V4) (Defence)": 3,
+        "Refined Groundnut Oil (V4) (Defence)": 3,
+        "Refined Mustard Oil": 1
+      },
+      "top_ministries": {
+        "Ministry of Defence": 8
+      },
+      "avg_winner_price": 2491779.92,
+      "avg_l1_l2_adv_pct": 0.5,
+      "single_bidder_wins": 0
+    },
+    {
+      "winner": "UNIVERSAL PRODUCTS(INDIA",
+      "total_wins": 7,
+      "top_categories": {
+        "BOQ 1,BOQ 2,BOQ 3,BOQ 4,BOQ 5,BOQ 6,BOQ 7,BOQ 8,BOQ 9": 2,
+        "BOQ 1,BOQ 2,BOQ 3,BOQ 4,BOQ 5,BOQ 6,BOQ 7,BOQ 8": 2,
+        "BOQ 1,BOQ 2,BOQ 3,BOQ 4,BOQ 5,BOQ 6,BOQ 7,BOQ 8,BOQ 9,BOQ 10": 1
+      },
+      "top_ministries": {
+        "Ministry of Defence": 7
+      },
+      "avg_winner_price": 17943478.14,
+      "avg_l1_l2_adv_pct": 4.37,
+      "single_bidder_wins": 0
+    },
+    {
+      "winner": "M/S P.C ENTERPRISES",
+      "total_wins": 7,
+      "top_categories": {
+        "Refined Groundnut Oil (V4) (Defence)": 4,
+        "Refined Sunflower Oil (V4) (Defence)": 1,
+        "Refined Groundnut Oil as per DFS": 1
+      },
+      "top_ministries": {
+        "Ministry of Defence": 7
+      },
+      "avg_winner_price": 2271413.8,
+      "avg_l1_l2_adv_pct": 0.48,
+      "single_bidder_wins": 0
+    },
+    {
+      "winner": "SHREE SHYAM ENTERPRISES",
+      "total_wins": 6,
+      "top_categories": {
+        "Tea Leaf (??? ?????)": 5,
+        "Revolving Chair (V5),Revolving Chair (V5),Modular Table / Meeting Table / Centre Table (V2),Waiting": 1
+      },
+      "top_ministries": {
+        "Ministry of Defence": 5,
+        "Unknown Ministry": 1
+      },
+      "avg_winner_price": 907221.67,
+      "avg_l1_l2_adv_pct": 1.25,
+      "single_bidder_wins": 0
+    }
+  ],
+  "repeat_winner_ministry_concentration": {
+    "Ministry of Defence": 123,
+    "Unknown Ministry": 18,
+    "Ministry of Heavy Industries and Public Enterprises": 4,
+    "Ministry of Finance": 2,
+    "Ministry of Home Affairs": 2
+  },
+  "bid_value_stats": {
+    "min": 21.99,
+    "max": 596821119.08,
+    "avg": 4573722.9,
+    "median": 974019.55
+  },
+  "top_10_categories": {
+    "LED Luminaire For Road And Street Lights Conforming To IS 10322 (Part 5/Section 3) (V3) (Under BIS ": 57,
+    "High Mast Lighting Tower for large area with LED Flood Lighting System": 42,
+    "Split Air Conditioner, Wall Mount Type (V3) ISI Marked to IS 1391 (Part 2)": 32,
+    "Toner Cartridges / Ink Cartridges / Consumables for Printers,Toner Cartridges / Ink Cartridges / Co": 22,
+    "Tanker on Agricultural Trailer": 22,
+    "Drinking Water Coolers (V4) ISI Marked To IS 1475": 22,
+    "Octagonal Pole (V2)": 21,
+    "E-cart for Goods": 19,
+    "Computer Printer (V2)": 17,
+    "Plain Copier Paper (V3) ISI Marked to IS 14490": 16
+  },
+  "top_10_ministries": {
+    "Ministry of Defence": 2258,
+    "Unknown Ministry": 967,
+    "Ministry of Railways": 161,
+    "Ministry of Finance": 116,
+    "Ministry of Home Affairs": 72,
+    "Ministry of Heavy Industries and Public Enterprises": 70,
+    "Ministry of Petroleum and Natural Gas": 56,
+    "Ministry of Steel": 45,
+    "Ministry of Power": 41,
+    "Ministry of Education": 27
+  },
+  "ministry_breakdown": [
+    {
+      "ministry": "Ministry of Defence",
+      "total_bids": 2258,
+      "avg_winner_price": 2811221.27,
+      "median_winner_price": 925381.5,
+      "pct_competitive": 33.3,
+      "top_winner": "SWASTIK ENTERPRISES",
+      "top_winner_wins": 9
+    },
+    {
+      "ministry": "Ministry of Railways",
+      "total_bids": 161,
+      "avg_winner_price": 2941921.7,
+      "median_winner_price": 3250000.0,
+      "pct_competitive": 71.4,
+      "top_winner": "R S TRADE & AGENCY",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Finance",
+      "total_bids": 116,
+      "avg_winner_price": 6145922.76,
+      "median_winner_price": 480018.3,
+      "pct_competitive": 66.0,
+      "top_winner": "DESIGN-M",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Home Affairs",
+      "total_bids": 72,
+      "avg_winner_price": 1922896.45,
+      "median_winner_price": 746200.0,
+      "pct_competitive": 40.4,
+      "top_winner": "M/S SHAKTI CONSTRUCTION & SUPPLY CO",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Heavy Industries and Public Enterprises",
+      "total_bids": 70,
+      "avg_winner_price": 5791319.05,
+      "median_winner_price": 338559.32,
+      "pct_competitive": 33.3,
+      "top_winner": "VECTOR INFORMATIK INDIA",
+      "top_winner_wins": 2
+    },
+    {
+      "ministry": "Ministry of Petroleum and Natural Gas",
+      "total_bids": 56,
+      "avg_winner_price": 41799732.23,
+      "median_winner_price": 12344750.0,
+      "pct_competitive": 35.3,
+      "top_winner": "GUJARAT ALKALIES AND CHEMICALS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Steel",
+      "total_bids": 45,
+      "avg_winner_price": 19654222.17,
+      "median_winner_price": 1676889.83,
+      "pct_competitive": 37.8,
+      "top_winner": "N.K MINERALS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Power",
+      "total_bids": 41,
+      "avg_winner_price": 14045694.79,
+      "median_winner_price": 1195000.0,
+      "pct_competitive": 42.9,
+      "top_winner": "RATUSARIA INDUSTRIES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Education",
+      "total_bids": 27,
+      "avg_winner_price": 2952032.4,
+      "median_winner_price": 300000.0,
+      "pct_competitive": 73.7,
+      "top_winner": "KARTIK INFOTECH",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "PMO",
+      "total_bids": 26,
+      "avg_winner_price": 2582725.98,
+      "median_winner_price": 2417474.0,
+      "pct_competitive": 33.3,
+      "top_winner": "PLA ELECTRO APPLIANCES",
+      "top_winner_wins": 2
+    },
+    {
+      "ministry": "Ministry of Consumer Affairs Food and Public Distribution",
+      "total_bids": 18,
+      "avg_winner_price": 6751583.0,
+      "median_winner_price": 1082000.0,
+      "pct_competitive": 35.3,
+      "top_winner": "GLORIOUS INDIA TRAVELS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Labour and Employment",
+      "total_bids": 18,
+      "avg_winner_price": 376288.15,
+      "median_winner_price": 299150.0,
+      "pct_competitive": 50.0,
+      "top_winner": "S.V. ENTERPRISES",
+      "top_winner_wins": 3
+    },
+    {
+      "ministry": "Ministry of Information and Broadcasting",
+      "total_bids": 16,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 71.4,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Chemicals and Fertilizers",
+      "total_bids": 15,
+      "avg_winner_price": 1146245.36,
+      "median_winner_price": 688520.0,
+      "pct_competitive": 53.8,
+      "top_winner": "M/S KISSAN IRON WORKS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Health and Family Welfare",
+      "total_bids": 15,
+      "avg_winner_price": 2537466.67,
+      "median_winner_price": 3103200.0,
+      "pct_competitive": 35.7,
+      "top_winner": "RATHORE SURGICAL INDUSTRIES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Coal",
+      "total_bids": 11,
+      "avg_winner_price": 18643825.43,
+      "median_winner_price": 18643825.43,
+      "pct_competitive": 40.0,
+      "top_winner": "CHINAR INDUSTRIES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Civil Aviation",
+      "total_bids": 10,
+      "avg_winner_price": 1567000.0,
+      "median_winner_price": 1567000.0,
+      "pct_competitive": 42.9,
+      "top_winner": "ARROW AVIATION SERVICES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Communications",
+      "total_bids": 10,
+      "avg_winner_price": 3702592.32,
+      "median_winner_price": 2251200.0,
+      "pct_competitive": 20.0,
+      "top_winner": "SPECTRUM STORAGE SOLUTIONS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Housing & Urban Affairs (MoHUA)",
+      "total_bids": 10,
+      "avg_winner_price": 30000.0,
+      "median_winner_price": 30000.0,
+      "pct_competitive": 60.0,
+      "top_winner": "PERFECT ENTERPRISES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Mines",
+      "total_bids": 9,
+      "avg_winner_price": 534014.25,
+      "median_winner_price": 515700.0,
+      "pct_competitive": 57.1,
+      "top_winner": "A B ELASTO PRODUCTS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Agriculture and Farmers Welfare",
+      "total_bids": 8,
+      "avg_winner_price": 432560.48,
+      "median_winner_price": 286329.4,
+      "pct_competitive": 28.6,
+      "top_winner": "M/S PAL FERTILIZERS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Micro Small and Medium Enterprises",
+      "total_bids": 8,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Tribal Affairs",
+      "total_bids": 8,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Road Transports and highways",
+      "total_bids": 7,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 28.6,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Science and Technology",
+      "total_bids": 7,
+      "avg_winner_price": 182098.6,
+      "median_winner_price": 182817.0,
+      "pct_competitive": 42.9,
+      "top_winner": "M/S PAPPU SINGH",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Culture",
+      "total_bids": 6,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Ports, Shipping and Waterways",
+      "total_bids": 6,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Skill Development and Entrepreneurship",
+      "total_bids": 6,
+      "avg_winner_price": 76830.0,
+      "median_winner_price": 76830.0,
+      "pct_competitive": 100.0,
+      "top_winner": "SNIPER SYSTEMS & SOLUTIONS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Electronics and Information Technology",
+      "total_bids": 5,
+      "avg_winner_price": 2492066.67,
+      "median_winner_price": 536000.0,
+      "pct_competitive": 0.0,
+      "top_winner": "NEUTECH",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Fisheries Animal Husbandry Dairying",
+      "total_bids": 5,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Jal Shakti",
+      "total_bids": 5,
+      "avg_winner_price": 750701.75,
+      "median_winner_price": 750701.75,
+      "pct_competitive": 20.0,
+      "top_winner": "OMEGA ENGINEERING WORKS",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Urban Development",
+      "total_bids": 5,
+      "avg_winner_price": 3950000.0,
+      "median_winner_price": 3950000.0,
+      "pct_competitive": 60.0,
+      "top_winner": "PINNACLE ENTERPRISES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Social Justice and Empowerment",
+      "total_bids": 4,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Water Resources River Development and Ganga Rejuvenation",
+      "total_bids": 4,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Department of Space",
+      "total_bids": 3,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Law and Justice",
+      "total_bids": 3,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Textiles",
+      "total_bids": 3,
+      "avg_winner_price": 170000.0,
+      "median_winner_price": 170000.0,
+      "pct_competitive": 50.0,
+      "top_winner": "JYOTI ENTERPRISE",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Statistics and Programme Implementation",
+      "total_bids": 2,
+      "avg_winner_price": 564487.68,
+      "median_winner_price": 564487.68,
+      "pct_competitive": 50.0,
+      "top_winner": "GLOBUS TRAVEL",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Tourism",
+      "total_bids": 2,
+      "avg_winner_price": 110137.5,
+      "median_winner_price": 110137.5,
+      "pct_competitive": 50.0,
+      "top_winner": "M/S TAVLEEN ENTERPRISES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Comptroller and Auditor General (CAG) of India",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Commerce and Industry",
+      "total_bids": 1,
+      "avg_winner_price": 9493130.0,
+      "median_winner_price": 9493130.0,
+      "pct_competitive": 0.0,
+      "top_winner": "VISITANT TECHNOLOGIES",
+      "top_winner_wins": 1
+    },
+    {
+      "ministry": "Ministry of Corporate Affairs",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Food Processing Industries",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Panchayati Raj",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "Ministry of Youth Affairs and Sports",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 0.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    },
+    {
+      "ministry": "NITI Aayog - National Institution for Transforming India",
+      "total_bids": 1,
+      "avg_winner_price": null,
+      "median_winner_price": null,
+      "pct_competitive": 100.0,
+      "top_winner": null,
+      "top_winner_wins": 0
+    }
+  ],
+  "anomaly_summary": {
+    "no_winner_price": 2671,
+    "ok": 1264,
+    "no_winner_price|single_bidder": 83,
+    "high_value": 40,
+    "no_winner_price|high_value": 17
+  },
+  "dataset_summary": {
+    "total_bids": 4075,
+    "bids_with_vendors": 1304,
+    "total_vendor_rows": 28901,
+    "unique_vendors": 9759,
+    "unique_ministries": 47,
+    "date_range_start": "2026-05-09",
+    "date_range_end": "2026-05-23"
+  }
+}
