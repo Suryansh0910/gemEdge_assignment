@@ -1,0 +1,7 @@
+# Full local scraping environment
+# Install: pip install -r requirements_scraping.txt && playwright install chromium
+playwright==1.44.0
+beautifulsoup4==4.12.3
+pandas>=2.0.0
+requests==2.32.3
+lxml==5.2.2

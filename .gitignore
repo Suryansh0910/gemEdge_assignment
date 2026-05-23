@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Scraping intermediates (worker CSVs + logs, not needed on Streamlit Cloud)
+gem_scraper/output/worker_*.csv
+gem_scraper/output/worker_*.log
+gem_scraper/output/vendors_0*.csv
+gem_scraper/output/vendors_1*.csv
+gem_scraper/output/vendors_2*.csv
+gem_scraper/output/all_bids.csv
+gem_scraper/output/awarded_bids.csv
+gem_scraper/output/awarded_with_vendors.csv
+gem_scraper/output/all_vendors.csv
+gem_scraper/output/page1_raw.json
+gem_scraper/output/*.html
+gem_scraper/shared/
+
+# Dashboard data — KEEP these (Streamlit Cloud reads them)
+# gem_scraper/output/bids_clean.csv     ← committed
+# gem_scraper/output/vendors_clean.csv  ← committed
+# gem_scraper/output/insights.json      ← committed
+# gem_scraper/output/validation_report.json ← committed
+
+# Screenshots
+*.png
+*.jpg
